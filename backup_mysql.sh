@@ -29,3 +29,5 @@ backup_and_compression_and_push_to_s3 () {
 done
 
 }
+
+backup_and_compression_and_push_to_s3
